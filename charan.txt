@@ -1,0 +1,113 @@
+sbussa2017@yahoo.com
+postgres
+  http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef 
+Tortoise SVN (Sub Version Network)
+arathireddyg@gmail.com
+https://sqoop.apache.org/docs/1.4.2/SqoopUserGuide.html
+CI : Continuous Integration
+
+CD : Continuous Delivery
+
+CD : Continuous Deployment
+
+Putty
+
+chmod
+
+r=4 w=2 x=1
+
+grep : globaly search for regular expression and print
+
+Search for a keyword(Any word) in multiple files and print that
+particular lines.
+
+grep -12 "log" fielname
+
+
+
+chmod 777 M_Chat 
+
+ispuat.wellsfargo.com : Host Name
+
+u524789 : username
+sdfjjsdf : pwd
+
+History 
+
+It will capture all versions and implementations 
+(What kind of Artifacts)
+
+https://tortoisesvn.net/downloads.html
+
+2-Tier Architecture
+
+Working Copy
+
+Central Repository
+
+5 - dev======5 machines(Working/Local Copy)================Server (Centrol Repostiry)
+
+
+=======================================
+GitHub   & GIt
+===================
+3 Tier Architecture
+DCVS : Distributed version control system
+
+Working Copy
+Stage Area
+Repository
+
+Open below URL in any browser
+
+https://github.com/
+
+Username
+
+Email
+
+Password
+==============
+
+Provide respective authentication details and login
+
+To create a repository go ahead and click on New repository
+
+Open below url in any one of browsers
+
+https://git-scm.com/
+
+Click on windows
+
+Latest source Release
+2.16.2
+Release Notes (2018-02-15)
+Download 2.16.2 for Windows
+
+santhosh@DESKTOP-6C96TJ8 MINGW64 ~ (master)
+$ git --version
+git version 2.15.1.windows.2
+
+santhosh@DESKTOP-6C96TJ8 MINGW64 ~ (master)
+$$ git init
+Reinitialized existing Git repository in C:/Users/santhosh/.git/
+
+
+Distributed Version Control System  ( 3 - Tier )
+
+/apps/folder/private/dwh/volcker
+cat or vi 
+
+-(d/f) rw-(u) rw-(g) r--(o)
+
+r= read   w=write  x=execute    -(no permission)
+
+position_mmddyyyy `
+
+Pipes & Redirection Operators
+
+
+
+winscp-----
+
+https://www.virtualbox.org/wiki/Downloads
